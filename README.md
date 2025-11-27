@@ -30,3 +30,7 @@ This is a **software-only MVP**, perfect for:
 1. Clone the repository:
 ```bash
 git clone https://github.com/yourusername/predictive-maintenance-dashboard.git
+
+## live demo
+https://predictivedashboard-ezhmsipx9d86cca89tswap.streamlit.app/
+
