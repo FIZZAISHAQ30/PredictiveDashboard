@@ -31,6 +31,7 @@ This is a **software-only MVP**, perfect for:
 ```bash
 git clone https://github.com/yourusername/predictive-maintenance-dashboard.git
 
-## live demo
-https://predictivedashboard-ezhmsipx9d86cca89tswap.streamlit.app/
+## Live Demo
+[Click here to view the app](https://predictivedashboard-ezhmsipx9d86cca89tswap.streamlit.app/)
+
 
